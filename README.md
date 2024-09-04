@@ -32,4 +32,4 @@ Este código conta a quantidade de ocorrências das letras minúscula 'a' e mai�
 * Exibe a contagem de ambas as letras e o total de suas ocorrências.
 
 ## Compilação e Execução Para compilar e executar os códigos:
-* Instale o dev c++ e execute o código ou copie o código acesse e cole no compilador online https://www.onlinegdb.com/online_c_compiler
+* Instale o dev c++ e execute o código ou copie o código do arquivo.cpp, acesse e cole no compilador online https://www.onlinegdb.com/online_c_compiler
